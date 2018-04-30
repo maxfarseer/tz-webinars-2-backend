@@ -1,7 +1,7 @@
 {
   "name": "backend-tz-2",
   "version": "0.0.1",
-  "description": "Starter project for an ES6 RESTful Express API",
+  "description": "Simple Express REST API for backend side for test task 2",
   "main": "dist",
   "scripts": {
     "dev": "nodemon -w src --exec \"babel-node src --presets es2015,stage-0\"",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/developit/express-es6-rest-api.git"
+    "url": "git+https://github.com/maxfarseer/tz-webinars-2-backend"
   },
   "author": "Jason Miller <jason@developit.ca> + Max P.",
   "license": "MIT",
@@ -50,8 +50,8 @@
     "node": "8.9.1"
   },
   "bugs": {
-    "url": "https://github.com/developit/express-es6-rest-api/issues"
+    "url": "https://github.com/maxfarseer/tz-webinars-2-backend/issues"
   },
-  "homepage": "https://github.com/developit/express-es6-rest-api#readme",
+  "homepage": "https://github.com/maxfarseer/tz-webinars-2-backend#readme",
   "keywords": ["backend", "tz2", "react"]
 }
