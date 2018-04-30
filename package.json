@@ -28,7 +28,7 @@
     "type": "git",
     "url": "git+https://github.com/developit/express-es6-rest-api.git"
   },
-  "author": "Jason Miller <jason@developit.ca>",
+  "author": "Jason Miller <jason@developit.ca> + Max P.",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.13.3",
@@ -46,13 +46,12 @@
     "eslint": "^3.1.1",
     "nodemon": "^1.9.2"
   },
+  "engines": {
+    "node": "8.9.1"
+  },
   "bugs": {
     "url": "https://github.com/developit/express-es6-rest-api/issues"
   },
   "homepage": "https://github.com/developit/express-es6-rest-api#readme",
-  "keywords": [
-    "backent",
-    "tz2",
-    "react"
-  ]
+  "keywords": ["backend", "tz2", "react"]
 }
