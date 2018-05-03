@@ -7,11 +7,11 @@
     "social": [
       {
         "label": "vk",
-        "link": "vk.com/maxpfrontend"
+        "link": "https://vk.com/maxpfrontend"
       },
       {
         "label": "telegram",
-        "link": "t.me/maxpfrontend"
+        "link": "https://t.me/maxpfrontend"
       },
       {
         "label": "web",
@@ -27,7 +27,7 @@
       },
       {
         "label": "twitch",
-        "link": "http://twich.tv/maxpfrontend"
+        "link": "https://twich.tv/maxpfrontend"
       }
     ]
   }
