@@ -1,6 +1,6 @@
 {
   "name": "backend-tz-2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple Express REST API for backend side for test task 2",
   "main": "dist",
   "scripts": {
